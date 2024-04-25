@@ -9,5 +9,5 @@ If you need help with following, let me know
 - Typography
 - UX/UI Design
 - bicycle repair
-- macking awesome pizza
+- making awesome pizza
 
